@@ -1,1 +1,1 @@
-branch file2
+branch file2, second file modified
